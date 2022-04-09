@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+# Mac Hidden folder
+.DS_Store
+*.DS_Store
+
+# Excel files
+~$*.xls*
+
